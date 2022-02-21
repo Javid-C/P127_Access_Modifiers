@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.exe
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.deps.json
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.dll
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\P127_Namespace_Partial_class.pdb
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.dll
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.pdb
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\P127_Namespace_Partial_class\obj\Debug\netcoreapp3.1\P127_Namespace_Partial_class.csproj.CopyComplete

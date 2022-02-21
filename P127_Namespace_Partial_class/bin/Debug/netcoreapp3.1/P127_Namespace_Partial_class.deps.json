@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P127_Namespace_Partial_class/1.0.0": {
+        "dependencies": {
+          "MyClasses": "1.0.0"
+        },
+        "runtime": {
+          "P127_Namespace_Partial_class.dll": {}
+        }
+      },
+      "MyClasses/1.0.0": {
+        "runtime": {
+          "MyClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P127_Namespace_Partial_class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

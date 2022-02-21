@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.deps.json
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\Lenovo\source\repos\P127_Namespace_Partial_class\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.pdb
